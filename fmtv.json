@@ -2,15 +2,15 @@
     "urls": [
       {
           "url": "https://raw.githubusercontent.com/lucastan97/fm/main/fm.json",
-          "name": " 📺 | 追剧FMTV 2.0 "
+          "name": " 📺 | 追剧FMTV 2.1 "
       },
       {
           "url": "https://raw.githubusercontent.com/lucastan97/fm/main/316.json",
-          "name": " 📺 | 追剧FMTV 1.0 "
+          "name": " 📺 | 追剧FMTV 1.1 "
       },
       {
           "url": "https://raw.githubusercontent.com/lucastan97/fm/main/fm_anime.json",
-          "name": " 🍄 | 动漫FMTV "
+          "name": " 🍄 | 动漫FMTV 1.1 "
       }
   ]
 }
