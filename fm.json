@@ -13,35 +13,6 @@
   "wallpaper": "http://fai-mang.net/image.php",
   "sites": [  
   //{ "key": "lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"}, 
-			{ "key": "豪华", "name": "豪华", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  			{ "key": "光速", "name": "光速", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  			{ "key": "卧龙", "name": "卧龙", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "魔都", "name": "魔都", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "非凡", "name": "非凡", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "iKun", "name": "iKun", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "360", "name": "360", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "木耳", "name": "木耳", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "鱼乐", "name": "鱼乐", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "速播", "name": "速播", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "最大", "name": "最大", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "百度", "name": "百度", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "优酷", "name": "优酷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "樱花", "name": "樱花", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "无尽", "name": "无尽", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "奇虎", "name": "奇虎", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "天空", "name": "天空", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "量子", "name": "量子", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "金鹰", "name": "金鹰", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "红牛", "name": "红牛", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "快看", "name": "快看", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "暴风", "name": "暴风", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "快车", "name": "快车", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "新浪", "name": "新浪", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "闪电", "name": "闪电", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  { "key": "闪电2", "name": "闪电2", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  			{ "key": "快车", "name": "快车", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  			{ "key": "乐视", "name": "乐视", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
-  			{ "key": "索尼", "name": "索尼", "type": 3, "api": "csp_XBPQ", "searchable": 0, "quickSearch": 0, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" },
   //{ "key": "T4-欧乐", "name": "欧乐 | 影视", "type": 4, "api": "https://tang.hz.cz/power/olelive?token=1d831d46", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },	
   { "key": "应用商店", "name": "应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext": "./lib/market.json"},		  
   { "key": "heimuer1", "name": "神速 | 无广告备用", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/黑木耳资源.json" },
@@ -202,6 +173,7 @@
   ],
   "notice": "欢迎光临"
 }
+
 
 
 
