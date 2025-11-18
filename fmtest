@@ -1,0 +1,36 @@
+{
+  "sites": [
+    { "name": "木耳", "api": "https://json.heimuer.tv/api.php/provide/vod" },
+    { "name": "卧龙", "api": "https://collect.wolongzyw.com/api.php/provide/vod/" },
+    { "name": "魔都", "api": "https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/" },
+    { "name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/" },
+    { "name": "iKun", "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/" },
+    { "name": "360", "api": "https://360zy.com/api.php/provide/vod/" },
+    { "name": "飞速", "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/" },
+    { "name": "豪华", "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8" },
+    { "name": "光速", "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/" },
+    { "name": "鱼乐", "api": "https://api.ylzy.me/api.php/provide/vod/" },
+    { "name": "速播", "api": "https://subocaiji.com/api.php/provide/vod/" },
+    { "name": "最大", "api": "https://api.zuidapi.com/api.php/provide/vod/" },
+    { "name": "百度", "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/" },
+    { "name": "优酷", "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/" },
+    { "name": "樱花", "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/from/yhm3u8/" },
+    { "name": "无尽", "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/" },
+    { "name": "奇虎", "api": "https://caiji.qhzyapi.com/api.php/provide/vod/" },
+    { "name": "天空", "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/" },
+    { "name": "量子", "api": "https://cj.lziapi.com/api.php/provide/vod/", "searchable": 0 },
+    { "name": "金鹰", "api": "https://jyzyapi.com/provide/vod/", "searchable": 0 },
+    { "name": "红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/", "searchable": 0 },
+    { "name": "快看", "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/", "searchable": 0 },
+    { "name": "暴风", "api": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8/", "searchable": 0 },
+    { "name": "快车", "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/", "searchable": 0 },
+    { "name": "新浪", "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/", "searchable": 0 },
+    { "name": "闪电", "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8", "searchable": 0 },
+    { "name": "闪电2", "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8", "searchable": 0 },
+    { "name": "乐视", "api": "https://leshiapi.com/api.php/provide/vod/from/leshi/" , "searchable": 0 },
+    { "name": "索尼", "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "searchable": 0 }
+  ],
+  "lives": [
+    { "group": "默认", "channels": [] },
+    { "type": 1, "name": "FMM-IPV6", "api": "https://live.fanmingming.com/tv/m3u/ipv6.m3u" }
+  ]
