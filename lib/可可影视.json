@@ -2,8 +2,8 @@
     "作者": "316",
     "站名": "可可影视",
 	
-	"主页url": "https://www.keke1.app/",	
-	"分类url": "https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+	"主页url": "https://www.keke13.com/",	
+	"分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6",
 	
 	"二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
@@ -14,7 +14,7 @@
 	"副标题": "class=\"v-item-bottom\">&&</div>",
 	
 	"搜索模式": "1",
-	"搜索url": "https://www.keke1.app:51111/search?k={wd}",
+	"搜索url": "https://www.keke13.com:51111/search?k={wd}",
 	"搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&</a>",
 	"搜索数组": "<a&&<div class=\"search-result-item-main\">",
 	"搜索图片": "data-original=\"&&\"[替换:/vod1>>https://61.147.93.252:15002/vod1]",
