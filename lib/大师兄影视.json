@@ -1,0 +1,73 @@
+{
+    "作者": "你的名字",
+    "站名": "DSHX影视",
+
+    "主页url": "https://www.dshxtv.com/",
+    "分类url": "https://www.dshxtv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+
+    "二次截取": "<div class=\"module-items\">&&<div id=\"page\">",
+    "数组": "<a class=\"module-poster-item&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "副标题": "class=\"module-item-note\">&&</div>",
+
+    "搜索模式": "1",
+    "搜索url": "https://www.dshxtv.com/vodsearch/-------------.html?wd={wd}",
+    "搜索二次截取": "<div class=\"module-main\">&&<div id=\"page\">",
+    "搜索数组": "<div class=\"module-search-item&&</a>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索标题": "title=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+
+    "影片年代": "年份：&&</a>",
+    "状态": "class=\"module-info-item-content\">&&</div>",
+    "影片类型": "",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "简介": "<div class=\"module-info-introduction-content\">&&</div>",
+
+    "线路二次截取": "<div class=\"module-tab-items\">&&<div class=\"module-list",
+    "线路数组": "<div class=\"module-tab-item&&</div>",
+    "线路标题": "<span>&&</span>",
+    "嗅探词": ".m3u8#.mp4#/obj/",
+    "播放数组": "<div class=\"module-play-list-content&&</div>",
+    "播放列表": "<a&&/a>",
+    "播放标题": "<span>&&</span>",
+    "播放链接": "href=\"&&\"",
+    "跳转播放链接": "\"url\":\"&&\"",
+
+    "筛选": {
+        "1": [
+            {
+                "key": "class",
+                "name": "类型",
+                "value": [
+                    {"n": "全部", "v": ""},
+                    {"n": "剧情", "v": "剧情"},
+                    {"n": "喜剧", "v": "喜剧"},
+                    {"n": "动作", "v": "动作"}
+                ]
+            },
+            {
+                "key": "year",
+                "name": "年份",
+                "value": [
+                    {"n": "全部", "v": ""},
+                    {"n": "2024", "v": "2024"},
+                    {"n": "2023", "v": "2023"}
+                ]
+            },
+            {
+                "key": "by",
+                "name": "排序",
+                "value": [
+                    {"n": "时间", "v": "time"},
+                    {"n": "人气", "v": "hits"},
+                    {"n": "评分", "v": "score"}
+                ]
+            }
+        ]
+    }
+}
